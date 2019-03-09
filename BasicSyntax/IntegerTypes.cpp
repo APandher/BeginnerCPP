@@ -21,7 +21,7 @@ cout << "The largest long integer is: " << LONG_MAX << endl; //2^63 - 1
 
 cout << "The size of an integer is: " << sizeof(int) << " bytes" << endl;
 
-cout << "The size on a long integer is: " << sizeof(long int) << " bytes" << endl;
+cout << "The size of a long integer is: " << sizeof(long int) << " bytes" << endl;
 
 //Remark: Unsigned ints are positive and can be used to represent Nat. Numbers
 
